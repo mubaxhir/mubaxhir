@@ -27,6 +27,6 @@ I am a Fullstack developer,
 <br />
 
 [facebook]: https://www.facebook.com/Mubashirbabar1/
-[linkedin]: www.linkedin.com/in/mubashir-babar
+[linkedin]: https://www.linkedin.com/in/mubashir-babar
 [stackoverflow]: https://stackoverflow.com/users/12693248/mubashir-babar
 [fiverr]: https://www.fiverr.com/mubashirbabar
