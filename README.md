@@ -1,8 +1,5 @@
 ### Hi there, I'm Mubashir Babar <img width="30" src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" />
 
-[![Website](https://img.shields.io/website?label=mansoorrajput.com&style=for-the-badge&url=https%3A%2F%2Fmansoorrajput.com)][website]
-
-
 I am a Fullstack developer, 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently working on something amazing!
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
