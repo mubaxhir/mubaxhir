@@ -4,7 +4,7 @@
 I am a Fullstack developer, 
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1590587834/9224/workflow.png?1590587834" /> I’m currently working on something amazing!
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1492722365/2086/reading.gif" /> I’m always learning something new and amazing
-- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2021 Goals: Contribute more to Open Source projects
+- <img width="20" src="https://emojis.slackmojis.com/emojis/images/1608799139/11887/happy-new-year.gif?1608799139" />  2022 Goals: Contribute more to Open Source projects
 - <img width="20" src="https://emojis.slackmojis.com/emojis/images/1594314885/9662/fbwow.gif?1594314885" />  fun fact: Coding is not my job its my hobby and i love doing it. 
 
 ### TECHNOLOGIES I USE OR CODE WITH:
