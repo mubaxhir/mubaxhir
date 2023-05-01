@@ -27,20 +27,3 @@ I am a Fullstack developer,
 [linkedin]: https://www.linkedin.com/in/mubashir-babar
 [stackoverflow]: https://stackoverflow.com/users/12693248/mubashir-babar
 [fiverr]: https://www.fiverr.com/mubashirbabar
-
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/mubashirbabar rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-361be019-83d6-4b72-bbf1-ac9f5f6a4faf' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >mubashirbabar</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>I am a Full Stack Web developer and AI Engineer with an extensive experience in Web technologies. I am a keen observer and have passion to put my best efforts for innovation and creativity. I’m confident that, with my skills and experience, I will be able to complete your job in a most effective and collaborative way.</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-361be019-83d6-4b72-bbf1-ac9f5f6a4faf' src='https://widgets.fiverr.com/api/v1/seller/mubashirbabar?widget_id=361be019-83d6-4b72-bbf1-ac9f5f6a4faf' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
